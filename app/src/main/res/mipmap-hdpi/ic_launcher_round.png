@@ -1,0 +1,95 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="9" />
+      <entry action="$Paste" count="32" />
+      <entry action="$SearchWeb" count="14" />
+      <entry action="$SelectAll" count="66" />
+      <entry action="$Undo" count="1093" />
+      <entry action="About" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="Add Annotation" count="1" />
+      <entry action="Add On Demand Static Import" count="1" />
+      <entry action="Add TypeCast" count="2" />
+      <entry action="Add method qualifier" count="1" />
+      <entry action="Android Lint Quick Fixes" count="7" />
+      <entry action="Android Quick Fixes" count="41" />
+      <entry action="Android.BuildApk" count="1" />
+      <entry action="Android.CreateResourceDirectory" count="2" />
+      <entry action="Android.GenerateSignedApk" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="11" />
+      <entry action="Android.RunAndroidSdkManager" count="1" />
+      <entry action="Change new operator type" count="1" />
+      <entry action="CheckForUpdate" count="1" />
+      <entry action="CheckinFiles" count="12" />
+      <entry action="CheckinProject" count="7" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="CleanGradleProject" count="16" />
+      <entry action="CloseContent" count="1" />
+      <entry action="CloseProject" count="2" />
+      <entry action="CodeCompletion" count="65" />
+      <entry action="CollapseRegion" count="5" />
+      <entry action="CollapseSelection" count="9" />
+      <entry action="CommentByLineComment" count="163" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create Constant From Usage" count="1" />
+      <entry action="Create constructor matching super" count="1" />
+      <entry action="Create method from usage" count="3" />
+      <entry action="DecrementWindowHeight" count="6" />
+      <entry action="DeveloperServices.ConnectionAssistant" count="2" />
+      <entry action="DeveloperServices.Firebase" count="1" />
+      <entry action="DialogCancelAction Escape" count="14" />
+      <entry action="DialogOkAction Enter" count="53" />
+      <entry action="EditorBackSpace" count="19358" />
+      <entry action="EditorChooseLookupItem" count="9035" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorContextInfo" count="1" />
+      <entry action="EditorCopy" count="178" />
+      <entry action="EditorCut" count="3" />
+      <entry action="EditorDeleteLine" count="38" />
+      <entry action="EditorDeleteToWordStart" count="11" />
+      <entry action="EditorDown" count="19419" />
+      <entry action="EditorDuplicate" count="8" />
+      <entry action="EditorEnter" count="3047" />
+      <entry action="EditorEscape" count="127" />
+      <entry action="EditorIndentSelection" count="2" />
+      <entry action="EditorJoinLines" count="2" />
+      <entry action="EditorLeft" count="11568" />
+      <entry action="EditorLeftWithSelection" count="2" />
+      <entry action="EditorLineEnd" count="6" />
+      <entry action="EditorLineStart" count="4" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorNextWordWithSelection" count="503" />
+      <entry action="EditorPageDown" count="708" />
+      <entry action="EditorPageUp" count="870" />
+      <entry action="EditorPaste" count="275" />
+      <entry action="EditorPreviousWord" count="8" />
+      <entry action="EditorPreviousWordWithSelection" count="239" />
+      <entry action="EditorRight" count="11821" />
+      <entry action="EditorRightWithSelection" count="6" />
+      <entry action="EditorScrollUp" count="4" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorStartNewLine" count="11" />
+      <entry action="EditorTab" count="28" />
+      <entry action="EditorUp" count="9749" />
+      <entry action="Exit" count="2" />
+      <entry action="ExpandRegion" count="7" />
+      <entry action="FileChooser.Delete" count="2" />
+      <entry action="Find" count="25" />
+      <entry action="FindNext" count="1" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="Fix Variable Type" count="7" />
+      <entry action="Fix modifiers" count="2" />
+      <entry action="Generate" count="65" />
+      <entry action="Git.Add" count="15" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Init" count="4" />
+      <entry action="Git.Log" count="1" />
+      <entry action="Github.Create.Gist" count="2" />
+      <entry action="Github.Share" count="19" />
+      <entry action="GoogleLogin.LoginService" count="1" />
+      <entry action="GotoBookmark9" count="4" />
+      <entry action="GotoDeclaration" count="251" />
+      <entry action="Implement methods" count="41" />
+      <entry action="Import class" count="6" />
+     

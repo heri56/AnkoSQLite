@@ -1,0 +1,651 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="9" />
+      <entry action="$Paste" count="32" />
+      <entry action="$SearchWeb" count="14" />
+      <entry action="$SelectAll" count="66" />
+      <entry action="$Undo" count="1093" />
+      <entry action="About" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="Add Annotation" count="1" />
+      <entry action="Add On Demand Static Import" count="1" />
+      <entry action="Add TypeCast" count="2" />
+      <entry action="Add method qualifier" count="1" />
+      <entry action="Android Lint Quick Fixes" count="7" />
+      <entry action="Android Quick Fixes" count="41" />
+      <entry action="Android.BuildApk" count="1" />
+      <entry action="Android.CreateResourceDirectory" count="2" />
+      <entry action="Android.GenerateSignedApk" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="11" />
+      <entry action="Android.RunAndroidSdkManager" count="1" />
+      <entry action="Change new operator type" count="1" />
+      <entry action="CheckForUpdate" count="1" />
+      <entry action="CheckinFiles" count="12" />
+      <entry action="CheckinProject" count="7" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="CleanGradleProject" count="16" />
+      <entry action="CloseContent" count="1" />
+      <entry action="CloseProject" count="2" />
+      <entry action="CodeCompletion" count="68" />
+      <entry action="CollapseRegion" count="5" />
+      <entry action="CollapseSelection" count="9" />
+      <entry action="CommentByLineComment" count="168" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create Constant From Usage" count="1" />
+      <entry action="Create constructor matching super" count="1" />
+      <entry action="Create method from usage" count="3" />
+      <entry action="DecrementWindowHeight" count="6" />
+      <entry action="DeveloperServices.ConnectionAssistant" count="2" />
+      <entry action="DeveloperServices.Firebase" count="1" />
+      <entry action="DialogCancelAction Escape" count="14" />
+      <entry action="DialogOkAction Enter" count="53" />
+      <entry action="EditorBackSpace" count="19423" />
+      <entry action="EditorChooseLookupItem" count="9054" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorContextInfo" count="1" />
+      <entry action="EditorCopy" count="178" />
+      <entry action="EditorCut" count="3" />
+      <entry action="EditorDeleteLine" count="38" />
+      <entry action="EditorDeleteToWordStart" count="11" />
+      <entry action="EditorDown" count="19443" />
+      <entry action="EditorDuplicate" count="8" />
+      <entry action="EditorEnter" count="3052" />
+      <entry action="EditorEscape" count="127" />
+      <entry action="EditorIndentSelection" count="2" />
+      <entry action="EditorJoinLines" count="2" />
+      <entry action="EditorLeft" count="11580" />
+      <entry action="EditorLeftWithSelection" count="2" />
+      <entry action="EditorLineEnd" count="6" />
+      <entry action="EditorLineStart" count="4" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorNextWordWithSelection" count="503" />
+      <entry action="EditorPageDown" count="713" />
+      <entry action="EditorPageUp" count="874" />
+      <entry action="EditorPaste" count="276" />
+      <entry action="EditorPreviousWord" count="8" />
+      <entry action="EditorPreviousWordWithSelection" count="239" />
+      <entry action="EditorRight" count="11833" />
+      <entry action="EditorRightWithSelection" count="6" />
+      <entry action="EditorScrollUp" count="4" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorStartNewLine" count="11" />
+      <entry action="EditorTab" count="28" />
+      <entry action="EditorUp" count="9758" />
+      <entry action="Exit" count="2" />
+      <entry action="ExpandRegion" count="7" />
+      <entry action="FileChooser.Delete" count="2" />
+      <entry action="Find" count="25" />
+      <entry action="FindNext" count="1" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="Fix Variable Type" count="7" />
+      <entry action="Fix modifiers" count="2" />
+      <entry action="Generate" count="65" />
+      <entry action="Git.Add" count="15" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Init" count="4" />
+      <entry action="Git.Log" count="1" />
+      <entry action="Github.Create.Gist" count="2" />
+      <entry action="Github.Share" count="19" />
+      <entry action="GoogleLogin.LoginService" count="1" />
+      <entry action="GotoBookmark9" count="4" />
+      <entry action="GotoDeclaration" count="253" />
+      <entry action="Implement methods" count="41" />
+      <entry action="Import class" count="6" />
+      <entry action="ImportProject" count="1" />
+      <entry action="IncrementWindowHeight" count="7" />
+      <entry action="Insert namespace prefix" count="1" />
+      <entry action="Introduce local variable" count="1" />
+      <entry action="InvalidateCaches" count="6" />
+      <entry action="JumpToLastChange" count="5" />
+      <entry action="Kotlin.NewFile" count="6" />
+      <entry action="LocalHistory.ShowHistory" count="2" />
+      <entry action="MakeGradleProject" count="1" />
+      <entry action="NewClass" count="28" />
+      <entry action="NewDir" count="14" />
+      <entry action="NewProject" count="73" />
+      <entry action="NextTab" count="1" />
+      <entry action="NextTemplateVariable" count="5" />
+      <entry action="OpenFile" count="9" />
+      <entry action="OpenModuleSettings" count="5" />
+      <entry action="OptimizeImports" count="2" />
+      <entry action="Override Resource in Other Configuration..." count="1" />
+      <entry action="RebuildGradleProject" count="3" />
+      <entry action="RefactoringMenuRenameFile" count="1" />
+      <entry action="Rename Wrong Reference" count="1" />
+      <entry action="RenameElement" count="5" />
+      <entry action="RenameFile" count="1" />
+      <entry action="RevealIn" count="10" />
+      <entry action="Run" count="311" />
+      <entry action="SafeDelete" count="4" />
+      <entry action="SaveAll" count="6" />
+      <entry action="SearchEverywhere" count="16" />
+      <entry action="SelectAllOccurrences" count="1" />
+      <entry action="ShowBookmarks" count="5" />
+      <entry action="ShowIntentionActions" count="367" />
+      <entry action="ShowKotlinBytecode" count="1" />
+      <entry action="ShowNavBar" count="4" />
+      <entry action="ShowReformatFileDialog" count="11" />
+      <entry action="ShowSettings" count="12" />
+      <entry action="Split Declaration" count="2" />
+      <entry action="Stop" count="148" />
+      <entry action="Subversion.ImportToSVNRepository" count="1" />
+      <entry action="Subversion.ShareWholeProject" count="1" />
+      <entry action="Suppress_ Add @SuppressLint( NewApi ) annotation" count="1" />
+      <entry action="Suppress_ Add @SuppressLint( WrongViewCast ) annotation" count="2" />
+      <entry action="Switcher" count="1" />
+      <entry action="ToggleBookmark" count="1" />
+      <entry action="ToggleBookmark9" count="3" />
+      <entry action="ToggleBookmarkWithMnemonic" count="1" />
+      <entry action="ToggleLineBreakpoint" count="11" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="template.create.ActivityEmpty Activity" count="20" />
+      <entry action="template.create.FragmentFragment (Blank)" count="11" />
+      <entry action="template.create.OtherBroadcast Receiver" count="5" />
+      <entry action="template.create.ServiceService" count="3" />
+      <entry action="template.create.ServiceService (IntentService)" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1527263914754" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="6" last-shown="0" last-used="1538458324922" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="268" last-shown="0" last-used="1542379710734" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="61" last-shown="0" last-used="1541917791033" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1542379592532" last-used="0" shown-count="35" />
+    <feature id="editing.completion.basic" count="8771" last-shown="0" last-used="1542380408634" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="24" last-shown="0" last-used="1542370219008" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="252" last-shown="0" last-used="1542380536848" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1541935470811" last-used="0" shown-count="2529" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1542379592532" last-used="0" shown-count="35" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="75690" />
+      <option name="invocations" value="6501" />
+      <option name="startDate" value="1527181200000" />
+      <option name="dayCount" value="60" />
+      <option name="lastDate" value="1542301200000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="268" />
+      <option name="startDate" value="1529859600000" />
+      <option name="dayCount" value="48" />
+      <option name="lastDate" value="1542301200000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="JAVA com.android.tools.idea.lint.ProvideLintFeedbackIntentionAction" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.AddTypeCastFix" count="5" />
+      <entry name="JAVA daemon.impl.quickfix.CastMethodArgumentFix" count="3" />
+      <entry name="JAVA daemon.impl.quickfix.ChangeMethodSignatureFromUsageFix" count="5" />
+      <entry name="JAVA daemon.impl.quickfix.ChangeNewOperatorTypeFix" count="3" />
+      <entry name="JAVA daemon.impl.quickfix.ChangeParameterClassFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CreateClassFromUsageFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CreateConstructorMatchingSuperFix" count="10" />
+      <entry name="JAVA daemon.impl.quickfix.ImplementMethodsFix" count="13" />
+      <entry name="JAVA daemon.impl.quickfix.ImportClassFix" count="3" />
+      <entry name="JAVA daemon.impl.quickfix.InsertNewFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.InsertSuperFix" count="3" />
+      <entry name="JAVA daemon.impl.quickfix.RemoveTypeArgumentsFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ReplaceWithListAccessFix" count="3" />
+      <entry name="JAVA daemon.impl.quickfix.SafeDeleteFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.VariableTypeFix" count="1" />
+      <entry name="JAVA intention.impl.AddOnDemandStaticImportAction" count="6" />
+      <entry name="JAVA intention.impl.AddSingleMemberStaticImportAction" count="3" />
+      <entry name="JAVA intention.impl.SplitDeclarationAction" count="1" />
+      <entry name="JAVA intention.impl.config.QuickFixFactoryImpl$1" count="1" />
+      <entry name="JAVA lang.java.actions.CreateConstructorAction" count="2" />
+      <entry name="JAVA openapi.editor.actions.FlipCommaIntention" count="3" />
+      <entry name="JAVA org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="1" />
+      <entry name="JAVA testIntegration.createTest.CreateTestAction" count="1" />
+      <entry name="XML com.android.tools.idea.actions.OverrideResourceAction" count="1" />
+      <entry name="XML daemon.impl.analysis.InsertRequiredAttributeFix" count="1" />
+      <entry name="XML org.jetbrains.android.inspections.AndroidMissingOnClickHandlerInspection$MyQuickFix" count="1" />
+      <entry name="XML org.jetbrains.android.inspections.CreateFileResourceQuickFix" count="10" />
+      <entry name="XML org.jetbrains.android.inspections.CreateValueResourceQuickFix" count="11" />
+      <entry name="XML org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="2" />
+      <entry name="XML util.xml.highlighting.DefineAttributeQuickFix" count="4" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.core.overrideImplement.ImplementMembersHandler" count="11" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.AddModifierFix" count="2" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ChangeCallableReturnTypeFix$OnType" count="4" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ChangeMemberFunctionSignatureFix" count="2" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ImportFix" count="6" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ImportForMismatchingArgumentsFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.LowPriorityQuickFixWithDelegateFactory" count="2" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.QuickFixWithDelegateFactory" count="4" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.RemoveModifierFix" count="2" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.SuperClassNotInitialized$AddParametersFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.SuperClassNotInitialized$AddParenthesisFix" count="2" />
+      <entry name="kotlin hints.EnableCustomHintsOption" count="1" />
+      <entry name="kotlin org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="2" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Build Bundle(s) / APK(s) -&gt; Build APK(s)" count="1" />
+      <entry path="Build -&gt; Clean Project" count="16" />
+      <entry path="Build -&gt; Generate Signed Bundle / APK..." count="1" />
+      <entry path="Build -&gt; Rebuild Project" count="3" />
+      <entry path="Edit -&gt; Undo" count="1" />
+      <entry path="File -&gt; Close Project" count="2" />
+      <entry path="File -&gt; Exit" count="2" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="6" />
+      <entry path="File -&gt; New -&gt; Import Project..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="69" />
+      <entry path="File -&gt; New -&gt; Project..." count="4" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="16" />
+      <entry path="File -&gt; Open..." count="9" />
+      <entry path="File -&gt; Settings..." count="12" />
+      <entry path="Help -&gt; About" count="1" />
+      <entry path="Help -&gt; Check for Updates..." count="1" />
+      <entry path="Navigate -&gt; Bookmarks -&gt; Toggle Bookmark" count="1" />
+      <entry path="Run -&gt; Run..." count="1" />
+      <entry path="Tools -&gt; AVD Manager" count="11" />
+      <entry path="Tools -&gt; Connection Assistant" count="2" />
+      <entry path="Tools -&gt; Firebase" count="1" />
+      <entry path="Tools -&gt; SDK Manager" count="1" />
+      <entry path="Tools -&gt; Tasks &amp; Contexts -&gt; Show Description" count="1" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="1" />
+      <entry path="VCS -&gt; Commit" count="7" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="8" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="5" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="4" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Import into Subversion..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project (Subversion)..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="19" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+Backspace" count="5" />
+      <entry shortcut="Alt+Enter" count="367" />
+      <entry shortcut="Alt+F12" count="1" />
+      <entry shortcut="Alt+Home" count="4" />
+      <entry shortcut="Alt+Insert" count="57" />
+      <entry shortcut="Alt+Left" count="3" />
+      <entry shortcut="Alt+Q" count="1" />
+      <entry shortcut="Alt+Right" count="2" />
+      <entry shortcut="Backspace" count="19422" />
+      <entry shortcut="Ctrl+9" count="4" />
+      <entry shortcut="Ctrl+A" count="66" />
+      <entry shortcut="Ctrl+Alt+O" count="2" />
+      <entry shortcut="Ctrl+Alt+Shift+J" count="1" />
+      <entry shortcut="Ctrl+Alt+Shift+L" count="11" />
+      <entry shortcut="Ctrl+B" count="252" />
+      <entry shortcut="Ctrl+Backspace" count="11" />
+      <entry shortcut="Ctrl+C" count="178" />
+      <entry shortcut="Ctrl+D" count="8" />
+      <entry shortcut="Ctrl+Enter" count="2" />
+      <entry shortcut="Ctrl+Equals" count="7" />
+      <entry shortcut="Ctrl+F" count="25" />
+      <entry shortcut="Ctrl+F11" count="1" />
+      <entry shortcut="Ctrl+F9" count="1" />
+      <entry shortcut="Ctrl+L" count="1" />
+      <entry shortcut="Ctrl+Left" count="8" />
+      <entry shortcut="Ctrl+Minus" count="5" />
+      <entry shortcut="Ctrl+Period" count="9" />
+      <entry shortcut="Ctrl+Right" count="1" />
+      <entry shortcut="Ctrl+S" count="6" />
+      <entry shortcut="Ctrl+Shift+9" count="3" />
+      <entry shortcut="Ctrl+Shift+Backspace" count="5" />
+      <entry shortcut="Ctrl+Shift+Down" count="7" />
+      <entry shortcut="Ctrl+Shift+J" count="2" />
+      <entry shortcut="Ctrl+Shift+L" count="1" />
+      <entry shortcut="Ctrl+Shift+Left" count="239" />
+      <entry shortcut="Ctrl+Shift+Right" count="503" />
+      <entry shortcut="Ctrl+Shift+Up" count="6" />
+      <entry shortcut="Ctrl+Slash" count="168" />
+      <entry shortcut="Ctrl+Space" count="68" />
+      <entry shortcut="Ctrl+T" count="1" />
+      <entry shortcut="Ctrl+Tab" count="1" />
+      <entry shortcut="Ctrl+Up" count="4" />
+      <entry shortcut="Ctrl+V" count="273" />
+      <entry shortcut="Ctrl+X" count="3" />
+      <entry shortcut="Ctrl+Y" count="38" />
+      <entry shortcut="Ctrl+Z" count="1087" />
+      <entry shortcut="Delete" count="6" />
+      <entry shortcut="Down" count="19483" />
+      <entry shortcut="End" count="6" />
+      <entry shortcut="Enter" count="12189" />
+      <entry shortcut="Escape" count="157" />
+      <entry shortcut="Home" count="4" />
+      <entry shortcut="Left" count="11580" />
+      <entry shortcut="Page Down" count="713" />
+      <entry shortcut="Page Up" count="874" />
+      <entry shortcut="Right" count="11833" />
+      <entry shortcut="Shift+Backspace" count="1" />
+      <entry shortcut="Shift+Enter" count="11" />
+      <entry shortcut="Shift+F11" count="5" />
+      <entry shortcut="Shift+Insert" count="3" />
+      <entry shortcut="Shift+Left" count="2" />
+      <entry shortcut="Shift+Right" count="6" />
+      <entry shortcut="Shift+Shift" count="16" />
+      <entry shortcut="Tab" count="33" />
+      <entry shortcut="Up" count="9767" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="MyFlexibleFragment" values="AndroidRunConfigurationType" collectionTime="1530679778608" />
+      <project id="MyAppKotlin" values="AndroidRunConfigurationType" collectionTime="1540103887544" />
+      <project id="SharePrefAndroid" values="AndroidRunConfigurationType" collectionTime="1536430379483" />
+      <project id="BarVolume" values="AndroidRunConfigurationType" collectionTime="1530273876659" />
+      <project id="MembuatFragment" values="AndroidRunConfigurationType" collectionTime="1530541538006" />
+      <project id="NewProject" values="AndroidRunConfigurationType" collectionTime="1527918989036" />
+      <project id="ResepMinuman" values="AndroidRunConfigurationType" collectionTime="1538392280932" />
+      <project id="FootballClubApplication" values="AndroidRunConfigurationType" collectionTime="1542380403516" />
+      <project id="ContohBundle" values="AndroidRunConfigurationType" collectionTime="1536557528756" />
+      <project id="MyAsyncTaskLoader" values="AndroidRunConfigurationType" collectionTime="1532666244772" />
+      <project id="SomethingService" values="AndroidRunConfigurationType" collectionTime="1532009823604" />
+      <project id="GitTes" values="AndroidRunConfigurationType" collectionTime="1527927576843" />
+      <project id="MyService" values="AndroidRunConfigurationType" collectionTime="1531032256220" />
+      <project id="NamaProject" values="AndroidRunConfigurationType" collectionTime="1529920841791" />
+      <project id="MVPSederhana" values="AndroidRunConfigurationType" collectionTime="1534494587880" />
+      <project id="MyAsyntask" values="AndroidRunConfigurationType" collectionTime="1534003141659" />
+      <project id="DownloadBerkas" values="AndroidRunConfigurationType" collectionTime="1531634418158" />
+      <project id="EcommerceAndroidApp" values="AndroidRunConfigurationType" collectionTime="1532777958415" />
+      <project id="GoogleCloudMessaging" values="AndroidRunConfigurationType" collectionTime="1539013662645" />
+      <project id="FootballClubApp" values="AndroidRunConfigurationType" collectionTime="1541778931141" />
+      <project id="MyAsyncTask" values="AndroidRunConfigurationType" collectionTime="1531975893730" />
+      <project id="AndroidServices" values="AndroidRunConfigurationType" collectionTime="1536249797393" />
+      <project id="TaskAfinityApp" values="AndroidRunConfigurationType" collectionTime="1535734135560" />
+      <project id="MyApplicationService" values="AndroidRunConfigurationType" collectionTime="1534047483501" />
+      <project id="ProjekAnko" values="AndroidRunConfigurationType" collectionTime="1540288176102" />
+      <project id="Bundle" values="AndroidRunConfigurationType" collectionTime="1530720248697" />
+      <project id="MyAppsGit" values="AndroidRunConfigurationType" collectionTime="1527927661496" />
+      <project id="MyJobScheduler" values="AndroidRunConfigurationType" collectionTime="1532597228193" />
+      <project id="KotlinExtensions" values="AndroidRunConfigurationType" collectionTime="1540051031196" />
+      <project id="MyApps" values="AndroidRunConfigurationType" collectionTime="1527919289212" />
+      <project id="MyDeepNavigation" values="AndroidRunConfigurationType" collectionTime="1532777603345" />
+      <project id="LatihanRecyclerView" values="AndroidRunConfigurationType" collectionTime="1541778657946" />
+      <project id="MyAlarmManager" values="AndroidRunConfigurationType" collectionTime="1535259506554" />
+      <project id="MyIntentApp" values="AndroidRunConfigurationType" collectionTime="1530190984664" />
+      <project id="SMSReceiver" values="AndroidRunConfigurationType" collectionTime="1537106282426" />
+      <project id="OOPBasicPattern" values="AndroidRunConfigurationType" collectionTime="1539138639629" />
+      <project id="RecyclerViewJava" values="AndroidRunConfigurationType" collectionTime="1539933832484" />
+      <project id="SmsListenerApp" values="AndroidRunConfigurationType" collectionTime="1531975836005" />
+      <project id="AndroidBroadcastSederhana" values="AndroidRunConfigurationType" collectionTime="1534941582584" />
+      <project id="LoginRegister" values="AndroidRunConfigurationType" collectionTime="1531825741911" />
+      <project id="ProjectCatalogueMovie" values="AndroidRunConfigurationType" collectionTime="1537966535124" />
+      <project id="SharePref" values="Unknown" collectionTime="1538836813437" />
+      <project id="KlikViewRecyclerview" values="AndroidRunConfigurationType" collectionTime="1542368825963" />
+    </group>
+    <group name="module type">
+      <project id="MyFlexibleFragment" values="JAVA_MODULE" collectionTime="1530679778607" />
+      <project id="MyAppKotlin" values="JAVA_MODULE" collectionTime="1540103887542" />
+      <project id="SharePrefAndroid" values="JAVA_MODULE" collectionTime="1536430379482" />
+      <project id="BarVolume" values="JAVA_MODULE" collectionTime="1530273876643" />
+      <project id="MembuatFragment" values="JAVA_MODULE" collectionTime="1530541538004" />
+      <project id="NewProject" values="JAVA_MODULE" collectionTime="1527918989036" />
+      <project id="SMSReceiver" values="JAVA_MODULE" collectionTime="1537106282426" />
+      <project id="FootballClubApplication" values="JAVA_MODULE" collectionTime="1542380403516" />
+      <project id="ContohBundle" values="JAVA_MODULE" collectionTime="1536557528756" />
+      <project id="MyAsyncTaskLoader" values="JAVA_MODULE" collectionTime="1532666244772" />
+      <project id="SomethingService" values="JAVA_MODULE" collectionTime="1532009823604" />
+      <project id="GitTes" values="JAVA_MODULE" collectionTime="1527927576842" />
+      <project id="MyService" values="JAVA_MODULE" collectionTime="1531032256220" />
+      <project id="NamaProject" values="JAVA_MODULE" collectionTime="1529920841282" />
+      <project id="MVPSederhana" values="JAVA_MODULE" collectionTime="1534494587879" />
+      <project id="MyAsyntask" values="JAVA_MODULE" collectionTime="1534003141659" />
+      <project id="DownloadBerkas" values="JAVA_MODULE" collectionTime="1531634418158" />
+      <project id="EcommerceAndroidApp" values="JAVA_MODULE" collectionTime="1532777958415" />
+      <project id="GoogleCloudMessaging" values="JAVA_MODULE" collectionTime="1539013662642" />
+      <project id="FootballClubApp" values="JAVA_MODULE" collectionTime="1541778931141" />
+      <project id="MyAsyncTask" values="JAVA_MODULE" collectionTime="1531975893730" />
+      <project id="AndroidServices" values="JAVA_MODULE" collectionTime="1536249797392" />
+      <project id="TaskAfinityApp" values="JAVA_MODULE" collectionTime="1535734135558" />
+      <project id="MyApplicationService" values="JAVA_MODULE" collectionTime="1534047483501" />
+      <project id="ProjekAnko" values="JAVA_MODULE" collectionTime="1540288176102" />
+      <project id="Bundle" values="JAVA_MODULE" collectionTime="1530720248696" />
+      <project id="MyAppsGit" values="JAVA_MODULE" collectionTime="1527927661496" />
+      <project id="MyJobScheduler" values="JAVA_MODULE" collectionTime="1532597228190" />
+      <project id="KotlinExtensions" values="JAVA_MODULE" collectionTime="1540051031196" />
+      <project id="MyApps" values="JAVA_MODULE" collectionTime="1527919289212" />
+      <project id="MyDeepNavigation" values="JAVA_MODULE" collectionTime="1532777603343" />
+      <project id="LatihanRecyclerView" values="JAVA_MODULE" collectionTime="1541778657944" />
+      <project id="MyAlarmManager" values="JAVA_MODULE" collectionTime="1535259506553" />
+      <project id="MyIntentApp" values="JAVA_MODULE" collectionTime="1530190984659" />
+      <project id="Kotlin App" values="JAVA_MODULE" collectionTime="1541781917640" />
+      <project id="OOPBasicPattern" values="JAVA_MODULE" collectionTime="1539138639626" />
+      <project id="ResepMinuman" values="JAVA_MODULE" collectionTime="1538392280930" />
+      <project id="RecyclerViewJava" values="JAVA_MODULE" collectionTime="1539933832483" />
+      <project id="SmsListenerApp" values="JAVA_MODULE" collectionTime="1531975836004" />
+      <project id="AndroidBroadcastSederhana" values="JAVA_MODULE" collectionTime="1534941582583" />
+      <project id="LoginRegister" values="JAVA_MODULE" collectionTime="1531825741911" />
+      <project id="ProjectCatalogueMovie" values="JAVA_MODULE" collectionTime="1537966535122" />
+      <project id="SharePref" values="JAVA_MODULE" collectionTime="1538836813435" />
+      <project id="KlikViewRecyclerview" values="JAVA_MODULE" collectionTime="1542368825962" />
+    </group>
+    <group name="vcs">
+      <project id="MyAppsGit" values="Git" collectionTime="1527927661496" />
+      <project id="ContohBundle" values="Git" collectionTime="1536557528756" />
+      <project id="GitTes" values="Git" collectionTime="1527927576838" />
+      <project id="BarVolume" values="Git" collectionTime="1530273876643" />
+      <project id="NewProject" values="Git" collectionTime="1527918989036" />
+      <project id="LatihanRecyclerView" values="Git" collectionTime="1541778657837" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="GitTes" values="data.git.root.count.1,data.users.count.1+,data.commit.count.1+,data.branches.count.1+" collectionTime="1527927577212" />
+      <project id="BarVolume" values="data.users.count.1+,data.branches.count.1+,data.commit.count.1+,data.git.root.count.1" collectionTime="1530273877529" />
+      <project id="LatihanRecyclerView" values="data.branches.count.1+,data.users.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1541778659135" />
+    </group>
+    <group name="file-type">
+      <project id="MyFlexibleFragment" values="Groovy,Images,ProGuard File,XML,ARCHIVE,Properties,JAVA,PLAIN_TEXT,IDEA_MODULE" collectionTime="1530679778851" />
+      <project id="MyAppKotlin" values="Groovy,JAVA,Properties,XML,ProGuard File,Kotlin,Image,IDEA_MODULE,PLAIN_TEXT,ARCHIVE" collectionTime="1540103887541" />
+      <project id="SharePrefAndroid" values="Properties,PLAIN_TEXT,XML,IDEA_MODULE,ProGuard File,JAVA,Images,ARCHIVE,Groovy" collectionTime="1536430379934" />
+      <project id="BarVolume" values="JAVA,Properties,ProGuard File,Groovy,Images,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,XML" collectionTime="1530273877294" />
+      <project id="MembuatFragment" values="Properties,Images,ProGuard File,IDEA_MODULE,Groovy,PLAIN_TEXT,JAVA,ARCHIVE,XML" collectionTime="1530541538306" />
+      <project id="NewProject" values="ProGuard File,IDEA_MODULE,Groovy,PLAIN_TEXT,Images,XML,JAVA,Properties,ARCHIVE" collectionTime="1527918989083" />
+      <project id="SMSReceiver" values="Images,Properties,XML,PLAIN_TEXT,ProGuard File,ARCHIVE,Groovy,JAVA,IDEA_MODULE" collectionTime="1537106282567" />
+      <project id="FootballClubApplication" values="PLAIN_TEXT,Groovy,Image,Kotlin,IDEA_MODULE,XML,ARCHIVE,Properties,JAVA,ProGuard File" collectionTime="1542380403516" />
+      <project id="ContohBundle" values="XML,Groovy,IDEA_MODULE,ARCHIVE,Images,Properties,ProGuard File,PLAIN_TEXT,JAVA" collectionTime="1536557528978" />
+      <project id="MyAsyncTaskLoader" values="Groovy,IDEA_MODULE,ProGuard File,JAVA,PLAIN_TEXT,ARCHIVE,XML,Images,Properties" collectionTime="1532666244848" />
+      <project id="SomethingService" values="Groovy,UNKNOWN,Properties,PLAIN_TEXT,ARCHIVE,Images,JAVA,IDEA_MODULE,XML,ProGuard File" collectionTime="1532009824141" />
+      <project id="GitTes" values="ProGuard File,ARCHIVE,Images,IDEA_MODULE,XML,JAVA,Groovy,Properties,PLAIN_TEXT" collectionTime="1527927577163" />
+      <project id="MyService" values="Properties,IDEA_MODULE,ARCHIVE,Images,PLAIN_TEXT,Groovy,ProGuard File,JAVA,XML" collectionTime="1531032256298" />
+      <project id="NamaProject" values="JAVA,Properties,ARCHIVE,ProGuard File,IDEA_MODULE,Groovy,Images,XML,PLAIN_TEXT" collectionTime="1529920842139" />
+      <project id="MVPSederhana" values="ARCHIVE,Properties,Groovy,JAVA,Images,IDEA_MODULE,XML,ProGuard File,PLAIN_TEXT" collectionTime="1534494588112" />
+      <project id="MyAsyntask" values="Groovy,XML,IDEA_MODULE,JAVA,ProGuard File,PLAIN_TEXT,Properties,ARCHIVE,Images" collectionTime="1534003141870" />
+      <project id="DownloadBerkas" values="JAVA,PLAIN_TEXT,Properties,Images,XML,ProGuard File,Groovy,ARCHIVE,IDEA_MODULE" collectionTime="1531634418238" />
+      <project id="EcommerceAndroidApp" values="AIDL,ARCHIVE,ProGuard File,HTML,IDEA_MODULE,UNKNOWN,Groovy,Properties,Images,PLAIN_TEXT,XML,JAVA" collectionTime="1532777958484" />
+      <project id="GoogleCloudMessaging" values="JSON,PLAIN_TEXT,ProGuard File,Groovy,IDEA_MODULE,Properties,Image,XML,JAVA,ARCHIVE" collectionTime="1539013662640" />
+      <project id="FootballClubApp" values="ARCHIVE,Groovy,Kotlin,PLAIN_TEXT,XML,Image,JAVA,IDEA_MODULE,ProGuard File,Properties" collectionTime="1541778931141" />
+      <project id="MyAsyncTask" values="Properties,XML,PLAIN_TEXT,Groovy,IDEA_MODULE,Images,JAVA,ARCHIVE,ProGuard File" collectionTime="1531975893835" />
+      <project id="AndroidServices" values="ProGuard File,ARCHIVE,Images,JAVA,XML,PLAIN_TEXT,Groovy,IDEA_MODULE,Properties" collectionTime="1536249797629" />
+      <project id="TaskAfinityApp" values="ProGuard File,JAVA,Images,Properties,ARCHIVE,Groovy,IDEA_MODULE,PLAIN_TEXT,XML" collectionTime="1535734135683" />
+      <project id="MyApplicationService" values="ProGuard File,Properties,Images,XML,Groovy,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,JAVA" collectionTime="1534047483576" />
+      <project id="ProjekAnko" values="XML,ARCHIVE,Groovy,IDEA_MODULE,PLAIN_TEXT,ProGuard File,Properties,Image,JAVA,Kotlin" collectionTime="1540288176102" />
+      <project id="Bundle" values="Images,XML,ARCHIVE,PLAIN_TEXT,JAVA,IDEA_MODULE,Groovy,ProGuard File,Properties" collectionTime="1530720248854" />
+      <project id="MyAppsGit" values="XML,JAVA,PLAIN_TEXT,Groovy,Properties,ProGuard File,IDEA_MODULE,ARCHIVE,Images" collectionTime="1527927661559" />
+      <project id="MyJobScheduler" values="PLAIN_TEXT,Images,XML,ProGuard File,ARCHIVE,JAVA,Groovy,Properties,IDEA_MODULE" collectionTime="1532597228426" />
+      <project id="KotlinExtensions" values="PLAIN_TEXT,Kotlin,Groovy,XML,ProGuard File,IDEA_MODULE,Properties,JAVA,Image,ARCHIVE" collectionTime="1540051031196" />
+      <project id="MyApps" values="PLAIN_TEXT,Groovy,IDEA_MODULE,XML,ProGuard File,Images,Properties,ARCHIVE,JAVA" collectionTime="1527919289243" />
+      <project id="MyDeepNavigation" values="Groovy,ProGuard File,PLAIN_TEXT,Images,Properties,ARCHIVE,IDEA_MODULE,JAVA,XML" collectionTime="1532777603535" />
+      <project id="LatihanRecyclerView" values="PLAIN_TEXT,Groovy,ProGuard File,XML,Image,ARCHIVE,IDEA_MODULE,Properties,JAVA" collectionTime="1541778657943" />
+      <project id="MyAlarmManager" values="ARCHIVE,Images,ProGuard File,Groovy,XML,IDEA_MODULE,PLAIN_TEXT,JAVA,Properties" collectionTime="1535259506843" />
+      <project id="MyIntentApp" values="PLAIN_TEXT,XML,Properties,ARCHIVE,AIDL,IDEA_MODULE,JAVA,ProGuard File,Images,Groovy" collectionTime="1530190985090" />
+      <project id="Kotlin App" values="UNKNOWN,Properties,ARCHIVE,XML,IDEA_MODULE,Image,PLAIN_TEXT,Kotlin,ProGuard File,Groovy" collectionTime="1541781917640" />
+      <project id="OOPBasicPattern" values="Groovy,ProGuard File,JAVA,Properties,PLAIN_TEXT,Image,IDEA_MODULE,ARCHIVE,XML" collectionTime="1539138639625" />
+      <project id="ResepMinuman" values="Properties,XML,Groovy,PLAIN_TEXT,JAVA,ProGuard File,IDEA_MODULE,Image,ARCHIVE" collectionTime="1538392280929" />
+      <project id="RecyclerViewJava" values="Image,Groovy,ARCHIVE,IDEA_MODULE,ProGuard File,Properties,PLAIN_TEXT,JAVA,XML" collectionTime="1539933832483" />
+      <project id="SmsListenerApp" values="PLAIN_TEXT,ProGuard File,Properties,IDEA_MODULE,Groovy,ARCHIVE,XML,JAVA,Images" collectionTime="1531975836166" />
+      <project id="AndroidBroadcastSederhana" values="IDEA_MODULE,Properties,ARCHIVE,JAVA,XML,Groovy,Images,ProGuard File,PLAIN_TEXT" collectionTime="1534941582827" />
+      <project id="LoginRegister" values="JAVA,PLAIN_TEXT,Images,IDEA_MODULE,Properties,ARCHIVE,ProGuard File,XML,Groovy" collectionTime="1531825741993" />
+      <project id="ProjectCatalogueMovie" values="XML,ProGuard File,JAVA,Image,Groovy,PLAIN_TEXT,Properties,ARCHIVE,IDEA_MODULE" collectionTime="1537966535121" />
+      <project id="SharePref" values="Properties,XML,Image,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,JAVA,Groovy" collectionTime="1538836813434" />
+      <project id="KlikViewRecyclerview" values="ProGuard File,XML,JAVA,Image,ARCHIVE,PLAIN_TEXT,Properties,IDEA_MODULE,Groovy" collectionTime="1542368825961" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="MyFlexibleFragment" values="run.dashboard.disabled" collectionTime="1530679778855" />
+      <project id="MyAppKotlin" values="run.dashboard.disabled" collectionTime="1540103888783" />
+      <project id="SharePrefAndroid" values="run.dashboard.disabled" collectionTime="1536430379938" />
+      <project id="BarVolume" values="run.dashboard.disabled" collectionTime="1530273877295" />
+      <project id="MembuatFragment" values="run.dashboard.disabled" collectionTime="1530541538307" />
+      <project id="NewProject" values="run.dashboard.disabled" collectionTime="1527918989083" />
+      <project id="SMSReceiver" values="run.dashboard.disabled" collectionTime="1537106282567" />
+      <project id="FootballClubApplication" values="run.dashboard.disabled" collectionTime="1542380405428" />
+      <project id="ContohBundle" values="run.dashboard.disabled" collectionTime="1536557528979" />
+      <project id="MyAsyncTaskLoader" values="run.dashboard.disabled" collectionTime="1532666244849" />
+      <project id="SomethingService" values="run.dashboard.disabled" collectionTime="1532009824141" />
+      <project id="GitTes" values="run.dashboard.disabled" collectionTime="1527927577169" />
+      <project id="MyService" values="run.dashboard.disabled" collectionTime="1531032256298" />
+      <project id="NamaProject" values="run.dashboard.disabled" collectionTime="1529920842141" />
+      <project id="MVPSederhana" values="run.dashboard.disabled" collectionTime="1534494588115" />
+      <project id="MyAsyntask" values="run.dashboard.disabled" collectionTime="1534003141870" />
+      <project id="DownloadBerkas" values="run.dashboard.disabled" collectionTime="1531634418238" />
+      <project id="EcommerceAndroidApp" values="run.dashboard.disabled" collectionTime="1532777958484" />
+      <project id="GoogleCloudMessaging" values="run.dashboard.disabled" collectionTime="1539013663825" />
+      <project id="FootballClubApp" values="run.dashboard.disabled" collectionTime="1541778932268" />
+      <project id="MyAsyncTask" values="run.dashboard.disabled" collectionTime="1531975893835" />
+      <project id="AndroidServices" values="run.dashboard.disabled" collectionTime="1536249797629" />
+      <project id="TaskAfinityApp" values="run.dashboard.disabled" collectionTime="1535734135683" />
+      <project id="MyApplicationService" values="run.dashboard.disabled" collectionTime="1534047483576" />
+      <project id="ProjekAnko" values="run.dashboard.disabled" collectionTime="1540288177371" />
+      <project id="Bundle" values="run.dashboard.disabled" collectionTime="1530720248862" />
+      <project id="MyAppsGit" values="run.dashboard.disabled" collectionTime="1527927661559" />
+      <project id="MyJobScheduler" values="run.dashboard.disabled" collectionTime="1532597228435" />
+      <project id="KotlinExtensions" values="run.dashboard.disabled" collectionTime="1540051032517" />
+      <project id="MyApps" values="run.dashboard.disabled" collectionTime="1527919289243" />
+      <project id="MyDeepNavigation" values="run.dashboard.disabled" collectionTime="1532777603536" />
+      <project id="LatihanRecyclerView" values="run.dashboard.disabled" collectionTime="1541778659114" />
+      <project id="MyAlarmManager" values="run.dashboard.disabled" collectionTime="1535259506846" />
+      <project id="MyIntentApp" values="run.dashboard.disabled" collectionTime="1530190985102" />
+      <project id="Kotlin App" values="run.dashboard.disabled" collectionTime="1541781918977" />
+      <project id="OOPBasicPattern" values="run.dashboard.disabled" collectionTime="1539138641984" />
+      <project id="ResepMinuman" values="run.dashboard.disabled" collectionTime="1538392282157" />
+      <project id="RecyclerViewJava" values="run.dashboard.disabled" collectionTime="1539933833683" />
+      <project id="SmsListenerApp" values="run.dashboard.disabled" collectionTime="1531975836171" />
+      <project id="AndroidBroadcastSederhana" values="run.dashboard.disabled" collectionTime="1534941582834" />
+      <project id="LoginRegister" values="run.dashboard.disabled" collectionTime="1531825741993" />
+      <project id="ProjectCatalogueMovie" values="run.dashboard.disabled" collectionTime="1537966538092" />
+      <project id="SharePref" values="run.dashboard.disabled" collectionTime="1538836814152" />
+      <project id="KlikViewRecyclerview" values="run.dashboard.disabled" collectionTime="1542368827299" />
+    </group>
+    <group name="kotlin.formatter">
+      <project id="MyFlexibleFragment" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1530679779840" />
+      <project id="MyAppKotlin" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1540103889111" />
+      <project id="SharePrefAndroid" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1536430384615" />
+      <project id="BarVolume" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1530273879260" />
+      <project id="MembuatFragment" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1530541539166" />
+      <project id="NewProject" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1527918989098" />
+      <project id="SMSReceiver" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1537106283160" />
+      <project id="FootballClubApplication" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1542380405450" />
+      <project id="ContohBundle" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1536557529613" />
+      <project id="MyAsyncTaskLoader" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1532666245025" />
+      <project id="SomethingService" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1532009826399" />
+      <project id="GitTes" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1527927577586" />
+      <project id="MyService" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1531032256314" />
+      <project id="NamaProject" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1529920842899" />
+      <project id="MVPSederhana" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1534494588813" />
+      <project id="MyAsyntask" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1534003142076" />
+      <project id="DownloadBerkas" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1531634418244" />
+      <project id="EcommerceAndroidApp" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1532777958494" />
+      <project id="GoogleCloudMessaging" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1539013664140" />
+      <project id="FootballClubApp" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1541778932268" />
+      <project id="MyAsyncTask" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1531975893843" />
+      <project id="AndroidServices" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1536249797637" />
+      <project id="TaskAfinityApp" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1535734135691" />
+      <project id="MyApplicationService" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1534047483587" />
+      <project id="ProjekAnko" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1540288177771" />
+      <project id="Bundle" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1530720249529" />
+      <project id="MyAppsGit" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1527927661573" />
+      <project id="MyJobScheduler" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1532597229249" />
+      <project id="KotlinExtensions" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1540051032658" />
+      <project id="MyApps" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1527919289259" />
+      <project id="MyDeepNavigation" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1532777604159" />
+      <project id="LatihanRecyclerView" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1541778659376" />
+      <project id="MyAlarmManager" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1535259508090" />
+      <project id="MyIntentApp" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1530190985836" />
+      <project id="Kotlin App" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1541781918981" />
+      <project id="OOPBasicPattern" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1539138643459" />
+      <project id="ResepMinuman" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1538392282641" />
+      <project id="RecyclerViewJava" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1539933833690" />
+      <project id="SmsListenerApp" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1531975837090" />
+      <project id="AndroidBroadcastSederhana" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1534941583668" />
+      <project id="LoginRegister" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1531825742001" />
+      <project id="ProjectCatalogueMovie" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1537966539026" />
+      <project id="SharePref" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1538836814476" />
+      <project id="KlikViewRecyclerview" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1542368827716" />
+    </group>
+    <group name="module-language-level">
+      <project id="MyFlexibleFragment" values="JDK_1_7" collectionTime="1530679778970" />
+      <project id="MyAppKotlin" values="JDK_1_7" collectionTime="1540103888844" />
+      <project id="SharePrefAndroid" values="JDK_1_7" collectionTime="1536430380703" />
+      <project id="BarVolume" values="JDK_1_7" collectionTime="1530273877545" />
+      <project id="MembuatFragment" values="JDK_1_7" collectionTime="1530541538465" />
+      <project id="NewProject" values="JDK_1_7" collectionTime="1527918989083" />
+      <project id="SMSReceiver" values="JDK_1_7" collectionTime="1537106282692" />
+      <project id="FootballClubApplication" values="JDK_1_7" collectionTime="1542380405433" />
+      <project id="ContohBundle" values="JDK_1_7" collectionTime="1536557529149" />
+      <project id="MyAsyncTaskLoader" values="JDK_1_7" collectionTime="1532666244854" />
+      <project id="SomethingService" values="JDK_1_7" collectionTime="1532009824219" />
+      <project id="GitTes" values="JDK_1_7" collectionTime="1527927577226" />
+      <project id="MyService" values="JDK_1_7" collectionTime="1531032256298" />
+      <project id="NamaProject" values="JDK_1_7" collectionTime="1529920842210" />
+      <project id="MVPSederhana" values="JDK_1_7" collectionTime="1534494588242" />
+      <project id="MyAsyntask" values="JDK_1_7" collectionTime="1534003141875" />
+      <project id="DownloadBerkas" values="JDK_1_7" collectionTime="1531634418242" />
+      <project id="EcommerceAndroidApp" values="JDK_1_7" collectionTime="1532777958492" />
+      <project id="GoogleCloudMessaging" values="JDK_1_7" collectionTime="1539013663895" />
+      <project id="FootballClubApp" values="JDK_1_7" collectionTime="1541778932268" />
+      <project id="MyAsyncTask" values="JDK_1_7" collectionTime="1531975893842" />
+      <project id="AndroidServices" values="JDK_1_7" collectionTime="1536249797635" />
+      <project id="TaskAfinityApp" values="JDK_1_7" collectionTime="1535734135687" />
+      <project id="MyApplicationService" values="JDK_1_7" collectionTime="1534047483580" />
+      <project id="ProjekAnko" values="JDK_1_7" collectionTime="1540288177503" />
+      <project id="Bundle" values="JDK_1_7" collectionTime="1530720248933" />
+      <project id="MyAppsGit" values="JDK_1_7" collectionTime="1527927661571" />
+      <project id="MyJobScheduler" values="JDK_1_7" collectionTime="1532597228494" />
+      <project id="KotlinExtensions" values="JDK_1_7" collectionTime="1540051032518" />
+      <project id="MyApps" values="JDK_1_7" collectionTime="1527919289259" />
+      <project id="MyDeepNavigation" values="JDK_1_7" collectionTime="1532777603578" />
+      <project id="LatihanRecyclerView" values="JDK_1_7" collectionTime="1541778659150" />
+      <project id="MyAlarmManager" values="JDK_1_7" collectionTime="1535259506977" />
+      <project id="MyIntentApp" values="JDK_1_7" collectionTime="1530190985227" />
+      <project id="Kotlin App" values="JDK_1_7" collectionTime="1541781918977" />
+      <project id="OOPBasicPattern" values="JDK_1_7" collectionTime="1539138642489" />
+      <project id="ResepMinuman" values="JDK_1_7" collectionTime="1538392282246" />
+      <project id="RecyclerViewJava" values="JDK_1_7" collectionTime="1539933833684" />
+      <project id="SmsListenerApp" values="JDK_1_7" collectionTime="1531975836295" />
+      <project id="AndroidBroadcastSederhana" values="JDK_1_7" collectionTime="1534941582960" />
+      <project id="LoginRegister" values="JDK_1_7" collectionTime="1531825741997" />
+      <project id="ProjectCatalogueMovie" values="JDK_1_7" collectionTime="1537966538359" />
+      <project id="SharePref" values="JDK_1_7" collectionTime="1538836814233" />
+      <project id="KlikViewRecyclerview" values="JDK_1_7" collectionTime="1542368827413" />
+    </group>
+    <group name="all-listed-tools">
+      <project id="ProjekAnko" values="kotlin.IfThenToElvis,kotlin.ObjectPropertyName,kotlin.RemoveEmptyClassBody,kotlin.RemoveEmptyParenthesesFromLambdaCall,kot
